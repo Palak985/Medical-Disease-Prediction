@@ -1,11 +1,68 @@
 # 🏥 Medical Disease Prediction: Diabetes Risk Classification
 
-> **An end-to-end machine learning project for predicting diabetes risk using patient health metrics. Built with scikit-learn, featuring data preprocessing, exploratory analysis, multiple ML models, and performance evaluation.**
+> **Complete end-to-end AI/ML project from Jupyter notebooks to production-ready Docker deployment. Includes web UI, explainability, advanced models, and REST API.**
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green?logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?logo=streamlit)
+![Docker](https://img.shields.io/badge/Docker-Deployment-blue?logo=docker)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+---
+
+## 🎯 Project Levels (Complete Learning Path)
+
+### **Level 1: ML Pipeline Fundamentals** ✅
+- Data loading & exploration
+- Preprocessing & feature engineering
+- Model training (Logistic Regression, Decision Tree, Random Forest)
+- Performance evaluation & metrics
+- **File:** `Project_1_Level_1_Diabetes_Prediction.ipynb`
+
+### **Level 2a: Interactive Web Application** 🎨
+- Streamlit UI for single/batch predictions
+- Model performance dashboard
+- Data exploration tools
+- Real-time visualizations
+- **File:** `streamlit_app.py`
+- **Run:** `streamlit run streamlit_app.py`
+
+### **Level 2b: Model Explainability (SHAP)** 🔍
+- Feature importance analysis
+- Individual prediction explanation
+- SHAP force & waterfall plots
+- Feature impact visualization
+- **File:** `shap_explainability.py`
+- **Run:** `streamlit run shap_explainability.py`
+
+### **Level 3: Model Optimization & Tuning** 🚀
+- Hyperparameter tuning (5 algorithms)
+- GridSearch & RandomizedSearch
+- Cross-validation analysis
+- XGBoost & Gradient Boosting
+- Feature importance ranking
+- **File:** `level_3_model_optimization.py`
+- **Run:** `python level_3_model_optimization.py`
+
+### **Level 4a: REST API Deployment** 🔌
+- FastAPI with automatic documentation
+- Single & batch predictions
+- Health check & feature endpoints
+- Pydantic validation
+- Production-ready error handling
+- **File:** `level_4_api.py`
+- **Run:** `python level_4_api.py`
+- **Access:** http://localhost:8000/docs
+
+### **Level 4b: Docker Containerization** 🐳
+- Multi-stage Docker build
+- Docker Compose orchestration
+- Production security best practices
+- Health checks & monitoring
+- **Files:** `Dockerfile`, `docker-compose.yml`
+- **Run:** `docker-compose up --build`
 
 ---
 
