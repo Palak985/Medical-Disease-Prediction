@@ -413,49 +413,6 @@ By working through this project, you'll master:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-**Areas for contribution:**
-- Additional datasets for validation
-- Performance optimizations
-- New visualization techniques
-- Documentation improvements
-- Bug fixes and edge case handling
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
----
-
-## 💬 Questions & Support
-
-- 📧 **Email:** your-email@example.com
-- 💬 **Issues:** Open an issue on GitHub
-- 🤝 **Discussions:** Use GitHub Discussions for questions
-
----
-
-## 📌 Key Takeaways
-
-✅ **Complete ML Pipeline:** From raw data to predictions  
-✅ **Production-Ready Code:** Clean, documented, scalable  
-✅ **Medical Domain Expertise:** Real healthcare use case  
-✅ **Portfolio Project:** Perfect for IIT applications & internships  
-✅ **Beginner-Friendly:** Well-commented, extensive documentation  
-✅ **Extensible:** Easy to add new models, features, or datasets  
-
----
 
 ## 🎯 Quick Start Cheat Sheet
 
@@ -480,7 +437,6 @@ jupyter notebook Project_1_Level_1_Diabetes_Prediction.ipynb
 
 <div align="center">
 
-**Built with ❤️ for AI/ML learning and healthcare innovation**
 
 ⭐ If this project helped you, please consider giving it a star! ⭐
 
@@ -488,12 +444,6 @@ jupyter notebook Project_1_Level_1_Diabetes_Prediction.ipynb
 
 ---
 
-## 🔗 Additional Links & Resources
 
-- [View Full Notebook](./Project_1_Level_1_Diabetes_Prediction.ipynb)
-- [Dataset Source](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv)
-- [Machine Learning Fundamentals](https://scikit-learn.org/stable/user_guide.html)
-
----
 
 *Last Updated: April 2026*
